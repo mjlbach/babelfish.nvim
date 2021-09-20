@@ -9,7 +9,9 @@ M.tokens = {
   code_fence_content = "code_fence_content",
   paragraph = "paragraph",
   soft_line_break = "soft_line_break",
-  link = "link"
+  link = "link",
+  image = "image",
+  table = "table"
 }
 
 return M
